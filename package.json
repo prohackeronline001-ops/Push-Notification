@@ -1,5 +1,5 @@
 {
-  "name": "push-server",
+  "name": "push-notification",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
